@@ -36,10 +36,12 @@ p{
     list-style: none;
     padding-left: 0;
     margin-top: 30px;
+    text-rendering: optimizeLegibility;
 }
 
 .socialmedia li{
     display: inline;
+    text-rendering: optimizeLegibility;
 }
 
 .socialmedia a{
