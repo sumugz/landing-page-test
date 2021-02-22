@@ -37,11 +37,13 @@ p{
     padding-left: 0;
     margin-top: 30px;
     text-rendering: optimizeLegibility;
+    text-decoration: none;
 }
 
 .socialmedia li{
     display: inline;
     text-rendering: optimizeLegibility;
+    text-decoration: none;
 }
 
 .socialmedia a{
